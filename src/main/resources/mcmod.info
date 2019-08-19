@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ot",
+  "name": "Obsidian Technology",
+  "description": "提供黑曜石装备",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://space.bilibili.com/287922002",
+  "updateUrl": "",
+  "authorList": ["lltsdyp"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
